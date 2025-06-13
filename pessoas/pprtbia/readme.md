@@ -2,7 +2,7 @@
 name:
   compact: Bianca Rodrigues
   full: Bianca Rodrigues Bandeira
-avatar: https://avatars.githubusercontent.com/u/2474283?v=4
+avatar: https://avatars.githubusercontent.com/u/205097385?v=4
 addresses:
   github: https://github.com/pprtbia
   email: bianca.bandeira@academico.ifpb.edu.br
