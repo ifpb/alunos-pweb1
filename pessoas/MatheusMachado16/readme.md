@@ -6,5 +6,4 @@ avatar: https://github.com/MatheusMachado16.png
 addresses:
   github: https://github.com/MatheusMachado16
   email: machado.matheus@academico.ifpb.edu.br
-  linkedin: https://linkedin.com/in/seuusuario
 ---
